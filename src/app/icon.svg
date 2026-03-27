@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Kanban">
+  <defs>
+    <linearGradient id="kb" x1="4" y1="4" x2="28" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3d5afe"/>
+      <stop offset="0.45" stop-color="#536dfe"/>
+      <stop offset="1" stop-color="#7c4dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#kb)"/>
+  <path fill="#fff" fill-opacity="0.95" d="M8 9h3.2v14H8V9zm6.4 5h3.2v9h-3.2v-9zm6.4-3h3.2v12h-3.2V11z"/>
+</svg>

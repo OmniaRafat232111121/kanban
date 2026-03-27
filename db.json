@@ -1,0 +1,124 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design homepage",
+      "description": "Include hero section and CTA",
+      "column": "backlog"
+    },
+    {
+      "id": 2,
+      "title": "API documentation",
+      "description": "Document REST endpoints for tasks",
+      "column": "backlog"
+    },
+    {
+      "id": 3,
+      "title": "Fix login bug",
+      "description": "Session expires too quickly",
+      "column": "backlog"
+    },
+    {
+      "id": 4,
+      "title": "Write unit tests",
+      "description": "Cover task service layer",
+      "column": "backlog"
+    },
+    {
+      "id": 5,
+      "title": "Accessibility audit",
+      "description": "WCAG 2.1 AA compliance check",
+      "column": "review"
+    },
+    {
+      "id": 6,
+      "title": "Kanban board UI",
+      "description": "Drag and drop between columns",
+      "column": "in_progress"
+    },
+    {
+      "id": 7,
+      "title": "React Query setup",
+      "description": "Cache and invalidate task queries",
+      "column": "in_progress"
+    },
+    {
+      "id": 8,
+      "title": "Search implementation",
+      "description": "Filter by title or description",
+      "column": "in_progress"
+    },
+    {
+      "id": 9,
+      "title": "Pagination per column",
+      "description": "Infinite scroll or load more",
+      "column": "in_progress"
+    },
+    {
+      "id": 10,
+      "title": "Code review: auth PR",
+      "description": "Review OAuth flow changes",
+      "column": "review"
+    },
+    {
+      "id": 11,
+      "title": "Dark mode polish",
+      "description": "Contrast fixes in settings",
+      "column": "review"
+    },
+    {
+      "id": 12,
+      "title": "Deploy staging",
+      "description": "CI pipeline to staging env",
+      "column": "review"
+    },
+    {
+      "id": 13,
+      "title": "Release notes v1.2",
+      "description": "Publish changelog for sprint",
+      "column": "done"
+    },
+    {
+      "id": 14,
+      "title": "Onboarding docs",
+      "description": "New dev setup guide",
+      "column": "done"
+    },
+    {
+      "id": 15,
+      "title": "Performance budget",
+      "description": "Lighthouse scores documented",
+      "column": "done"
+    },
+    {
+      "id": 16,
+      "title": "Backlog grooming",
+      "description": "Prioritize next sprint items",
+      "column": "backlog"
+    },
+    {
+      "id": 17,
+      "title": "Mobile layout",
+      "description": "Responsive Kanban columns",
+      "column": "done"
+    },
+    {
+      "id": 18,
+      "title": "E2E smoke tests",
+      "description": "Playwright critical paths",
+      "column": "review"
+    },
+    {
+      "id": 19,
+      "title": "dssd",
+      "description": "dds",
+      "column": "review"
+    },
+    {
+      "id": 20,
+      "title": "Design homepage (copy)",
+      "description": "Include hero section and CTA",
+      "column": "backlog"
+    }
+  ]
+}
