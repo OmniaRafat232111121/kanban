@@ -1,4 +1,3 @@
-<img width="1920" height="912" alt="screencapture-localhost-3000-2026-03-28-01_28_59" src="https://github.com/user-attachments/assets/98ff8177-a953-4706-a557-4dd05944f0ac" /># Kanban ToDo
 
 Kanban board (Next.js, React Query, Zustand, MUI, dnd-kit). Tasks live in `db.json` and are exposed at `/api/tasks`.
 
